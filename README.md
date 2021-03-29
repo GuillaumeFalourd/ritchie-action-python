@@ -2,6 +2,8 @@
 
 This Github action works for Ritchie CLI formulas implemented in **Python**.
 
+[![Action workflow](https://github.com/GuillaumeFalourd/ritchie-actions-python/actions/workflows/main.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-actions-python/actions/workflows/main.yml)
+
 ## Use case
 
 ```bash
