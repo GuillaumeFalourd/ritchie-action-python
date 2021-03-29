@@ -1,8 +1,8 @@
-# ritchie-actions-python
+# ritchie-action-python
 
 This Github action works for Ritchie CLI formulas implemented in **Python**.
 
-[![Action workflow](https://github.com/GuillaumeFalourd/ritchie-actions-python/actions/workflows/main.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-actions-python/actions/workflows/main.yml)
+[![Action workflow](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/main.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/main.yml)
 
 ## Use case
 
@@ -19,7 +19,7 @@ jobs:
     name: Ritchie Action
     steps:
     - name: Run Ritchie Action Command
-      uses: GuillaumeFalourd/ritchie-actions-python@v1.0
+      uses: GuillaumeFalourd/ritchie-action-python@v1.1
       with:
         rit-repo-url: https://github.com/ZupIT/ritchie-formulas-demo
         rit-formula-command: rit demo coffee-python --rit_name=Dennis --rit_coffee_type=espresso --rit_delivery=false
