@@ -2,7 +2,9 @@
 
 This Github action works for Ritchie CLI formulas implemented in **Python**.
 
-[![Action workflow](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/main.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/main.yml)
+[![Action workflow (PUBLIC)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/public-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/public-repo-demo-workflow.yml)
+
+[![Action workflow (PRIVATE)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/private-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-python/actions/workflows/private-repo-demo-workflow.yml)
 
 ## Use cases
 
